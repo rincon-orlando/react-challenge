@@ -26,7 +26,7 @@ In this Codesandbox, you have a complete environment with all you need to run yo
    HTML tag to show them (_sprites_ property from the mock object contains them)
 
 6. Create a link to the Pokemon's video so when you click it, redirects you to the video
-   on YouTube using the anchor _<a src=...>_ HTML tag
+   on YouTube using the anchor _<a href=...>_ HTML tag
 
 ## Submitting your work
 
